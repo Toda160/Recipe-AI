@@ -1,0 +1,1 @@
+A cross-platform mobile and web application built with React Native and Expo that uses Google's Gemini AI to generate personalized recipe suggestions based on user search queries. Features smart caching, favorites management, and an intuitive interface for discovering and saving recipes.
